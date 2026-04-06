@@ -1,0 +1,20 @@
+========== Election Results ==========
+Election Date: Fri Apr 03 15:42:49 CDT 2026
+Election Type: Plurality
+Total Candidates: 4
+Seats to Fill: 3
+
+Candidates:
+ - Alice
+ - Bob
+ - Charlie
+ - Diana
+
+Elected:
+ * Alice (Votes: 30.00%)
+ * Bob (Votes: 30.00%)
+ * Charlie (Votes: 30.00%)
+
+Non-Elected:
+ * Diana (Votes: 10.00%)
+==========================================

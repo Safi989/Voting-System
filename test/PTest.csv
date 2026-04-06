@@ -1,0 +1,13 @@
+PV
+3
+[Alice, Republican],[Bob, Democrat],[Charlie, Independent],[Diana, Socialist]
+Ballot(1,(1, 0, 0, 0))
+Ballot(1,(0, 1, 0, 0))
+Ballot(3,(1, 0, 0, 0))
+Ballot(4,(0, 1, 0, 0))
+Ballot(5,(0, 0, 1, 0))
+Ballot(6,(1, 0, 0, 0))
+Ballot(7,(0, 1, 0, 0))
+Ballot(8,(0, 0, 0, 1))
+Ballot(9,(0, 0, 1, 0))
+Ballot(10,(0, 0, 1, 0))

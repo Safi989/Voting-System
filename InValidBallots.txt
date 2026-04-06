@@ -1,0 +1,4 @@
+Invalid Ballot Detected
+Ballot ID: 2
+Preferences: [2, 1, 0, 0]
+-----------------------------
