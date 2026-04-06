@@ -1,6 +1,3 @@
-Apologies on the test logs sadly some files were corrupted which were the test logs though some were recovered through the github so it  might be rushed due to having to rewrite over 15 test cases and retesting them and getting files back as well.
-
-
 Special instruction:
 The PTest.csv file is for popularity voting and Test.csv is for STV voting.
 
